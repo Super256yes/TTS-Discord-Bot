@@ -3,5 +3,5 @@
 echo Starting...
 title TTS Discord Bot
 
-bot.py
+index.py
 
